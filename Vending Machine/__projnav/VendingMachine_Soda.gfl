@@ -1,0 +1,61 @@
+# XST (Creating Lso File) : 
+vendingmachine_soda.lso
+# xst flow : RunXST
+vendingmachine_soda.syr
+vendingmachine_soda.prj
+vendingmachine_soda.sprj
+vendingmachine_soda.ana
+vendingmachine_soda.stx
+vendingmachine_soda.cmd_log
+# XST (Creating Lso File) : 
+vendingmachine_soda.lso
+# xst flow : RunXST
+vendingmachine_soda.syr
+vendingmachine_soda.prj
+vendingmachine_soda.sprj
+vendingmachine_soda.ana
+vendingmachine_soda.stx
+vendingmachine_soda.cmd_log
+# XST (Creating Lso File) : 
+vendingmachine_soda.lso
+# xst flow : RunXST
+vendingmachine_soda.syr
+vendingmachine_soda.prj
+vendingmachine_soda.sprj
+vendingmachine_soda.ana
+vendingmachine_soda.stx
+vendingmachine_soda.cmd_log
+# XST (Creating Lso File) : 
+vendingmachine_soda.lso
+# xst flow : RunXST
+vendingmachine_soda.syr
+vendingmachine_soda.prj
+vendingmachine_soda.sprj
+vendingmachine_soda.ana
+vendingmachine_soda.stx
+vendingmachine_soda.cmd_log
+vendingmachine_soda.ngr
+# ModelSim : Launch ModelSim Simulator
+vendingmachine_soda.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+vendingmachine_soda.ldo
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# ModelSim : Launch ModelSim Simulator
+vsim.wlf
+# View RTL Schematic
+vendingmachine_soda.ngr
+# XST (Creating Lso File) : 
+vendingmachine_soda.lso
+# xst flow : RunXST
+vendingmachine_soda.syr
+vendingmachine_soda.prj
+vendingmachine_soda.sprj
+vendingmachine_soda.ana
+vendingmachine_soda.stx
+vendingmachine_soda.cmd_log
+vendingmachine_soda.ngr
+# View RTL Schematic
+vendingmachine_soda.ngr

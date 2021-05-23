@@ -1,0 +1,29 @@
+m255
+o
+cModel Technology
+dc:\xilinx\vendingmachine_soda
+Evendingmachine_soda
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith XinSYO>L7_n;;dMn;72:52
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+w1621708762
+FVendingMachine_soda.vhdl
+l0
+L11
+V8YZWVGC<S^3AJ96L=GS3f1
+OE;C;5.5f;15
+31
+o-93 -explicit
+tExplicit T
+Abehavioral
+DE work vendingmachine_soda 8YZWVGC<S^3AJ96L=GS3f1
+l29
+L18
+V_md8Ld@R<:1C9BjD5FL2z2
+OE;C;5.5f;15
+31
+M3 ieee std_logic_1164
+M2 ieee std_logic_arith
+M1 ieee std_logic_unsigned
+o-93 -explicit
+tExplicit T

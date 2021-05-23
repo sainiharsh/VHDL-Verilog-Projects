@@ -1,0 +1,8 @@
+V1 3
+FL c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl 2021/05/23.00:13:43
+EN work/VENDINGMACHINE_SODA \
+      FL c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl \
+      PB ieee/STD_LOGIC_1164 PB ieee/STD_LOGIC_ARITH PB ieee/STD_LOGIC_UNSIGNED
+AR work/VENDINGMACHINE_SODA/BEHAVIORAL \
+      FL c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl \
+      EN work/VENDINGMACHINE_SODA

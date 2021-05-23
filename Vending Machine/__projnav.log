@@ -1,0 +1,248 @@
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "View RTL Schematic".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl in Library work.
+ERROR:HDLParsers:164 - c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl Line 27. parse error, unexpected SEMICOLON, expecting COMMA or COLON
+--> 
+
+Total memory usage is 101728 kilobytes
+
+
+ERROR: XST failed
+Process "View RTL Schematic" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "View RTL Schematic".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl in Library work.
+ERROR:HDLParsers:800 - c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl Line 69. Type of Soda is incompatible with type of 0.
+ERROR:HDLParsers:800 - c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl Line 73. Type of Soda is incompatible with type of 0.
+ERROR:HDLParsers:800 - c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl Line 77. Type of Soda is incompatible with type of 0.
+ERROR:HDLParsers:800 - c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl Line 81. Type of Soda is incompatible with type of 0.
+ERROR:HDLParsers:800 - c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl Line 107. Type of Soda is incompatible with type of 1.
+--> 
+
+Total memory usage is 101728 kilobytes
+
+
+ERROR: XST failed
+Process "View RTL Schematic" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "View RTL Schematic".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl in Library work.
+ERROR:HDLParsers:800 - c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl Line 107. Type of Soda is incompatible with type of 1.
+--> 
+
+Total memory usage is 101728 kilobytes
+
+
+ERROR: XST failed
+Process "View RTL Schematic" did not complete.
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "View RTL Schematic".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl in Library work.
+Entity <VendingMachine_soda> (Architecture <Behavioral>) compiled.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <vendingmachine_soda> (Architecture <Behavioral>).
+Entity <vendingmachine_soda> analyzed. Unit <vendingmachine_soda> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <vendingmachine_soda>.
+    Related source file is c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl.
+    Found finite state machine <FSM_0> for signal <curr_state>.
+    -----------------------------------------------------------------------
+    | States             | 8                                              |
+    | Transitions        | 15                                             |
+    | Inputs             | 4                                              |
+    | Outputs            | 8                                              |
+    | Clock              | clk (rising_edge)                              |
+    | Reset              | reset (negative)                               |
+    | Reset type         | asynchronous                                   |
+    | Reset State        | start                                          |
+    | Power Up State     | start                                          |
+    | Encoding           | automatic                                      |
+    | Implementation     | LUT                                            |
+    -----------------------------------------------------------------------
+WARNING:Xst:737 - Found 2-bit latch for signal <CoinOut>.
+WARNING:Xst:737 - Found 1-bit latch for signal <Soda>.
+    Summary:
+	inferred   1 Finite State Machine(s).
+Unit <vendingmachine_soda> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Selecting encoding for FSM_0 ...
+Optimizing FSM <FSM_0> on signal <curr_state> with one-hot encoding.
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# FSMs                             : 1
+# Registers                        : 8
+ 1-bit register                    : 8
+# Latches                          : 2
+ 1-bit latch                       : 1
+ 2-bit latch                       : 1
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Completed process "View RTL Schematic".
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+Project Navigator Auto-Make Log File
+-------------------------------------
+
+
+
+
+Started process "View RTL Schematic".
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl in Library work.
+Entity <vendingmachine_soda> (Architecture <behavioral>) compiled.
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <vendingmachine_soda> (Architecture <behavioral>).
+Entity <vendingmachine_soda> analyzed. Unit <vendingmachine_soda> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <vendingmachine_soda>.
+    Related source file is c:/xilinx/vendingmachine_soda/VendingMachine_soda.vhdl.
+    Found finite state machine <FSM_0> for signal <curr_state>.
+    -----------------------------------------------------------------------
+    | States             | 8                                              |
+    | Transitions        | 15                                             |
+    | Inputs             | 4                                              |
+    | Outputs            | 8                                              |
+    | Clock              | clk (rising_edge)                              |
+    | Reset              | reset (positive)                               |
+    | Reset type         | asynchronous                                   |
+    | Reset State        | start                                          |
+    | Power Up State     | start                                          |
+    | Encoding           | automatic                                      |
+    | Implementation     | LUT                                            |
+    -----------------------------------------------------------------------
+WARNING:Xst:737 - Found 2-bit latch for signal <CoinOut>.
+WARNING:Xst:737 - Found 1-bit latch for signal <Soda>.
+    Summary:
+	inferred   1 Finite State Machine(s).
+Unit <vendingmachine_soda> synthesized.
+
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Advanced RAM inference ...
+Advanced multiplier inference ...
+Selecting encoding for FSM_0 ...
+Optimizing FSM <FSM_0> on signal <curr_state> with one-hot encoding.
+Dynamic shift register inference ...
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# FSMs                             : 1
+# Registers                        : 8
+ 1-bit register                    : 8
+# Latches                          : 2
+ 1-bit latch                       : 1
+ 2-bit latch                       : 1
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Completed process "View RTL Schematic".
+
+

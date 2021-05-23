@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn __projnav/vendingmachine_soda.xst -ofn vendingmachine_soda.syr
+xst -intstyle ise -ifn __projnav/vendingmachine_soda.xst -ofn vendingmachine_soda.syr
+xst -intstyle ise -ifn __projnav/vendingmachine_soda.xst -ofn vendingmachine_soda.syr
+xst -intstyle ise -ifn __projnav/vendingmachine_soda.xst -ofn vendingmachine_soda.syr
+xst -intstyle ise -ifn __projnav/vendingmachine_soda.xst -ofn vendingmachine_soda.syr
