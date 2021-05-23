@@ -21,4 +21,4 @@
 
 **Note: 0$ = “00”, 1$ = “01”, 2$=”10″, 5$ = “11”**
 
-State Diagram: ![Alt Text](https://thunderwiring.files.wordpress.com/2014/05/fsmdiagram.png)
+![Alt Text](https://thunderwiring.files.wordpress.com/2014/05/fsmdiagram.png)
